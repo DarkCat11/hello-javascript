@@ -13,7 +13,7 @@ Esto es
 un comentario
 en varias líneas
 */
-
+console.log("hola putas")
 console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
